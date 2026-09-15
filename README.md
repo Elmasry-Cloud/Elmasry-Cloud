@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khaled Ali! 👋
 
-<!--
-**Elmasry-Cloud/Elmasry-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | React.js & Next.js
 
-Here are some ideas to get you started:
+## About me
+- 🚀 Frontend Developer specializing in React.js and Next.js, with proven experience building scalable e-commerce platforms.
+- 🛒 Built everything from reusable UI components to full admin dashboards.
+- 🌍 Strong focus on performance, accessibility, and bilingual (Arabic/English) user experiences.
+- 🏢 Currently working as a Frontend Developer at Elevate Tech.
+- 🎓 B.Sc. in Commerce, Accounting — Zagazig University.
+- 📫 Reach me at: khaledali890k@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools 💻
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,figma,git,github,jira,npm)
+
+## Languages 🗣️
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Intermediate)
+- 🇩🇪 German (Intermediate)
+
+## Connect with me 🔗
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/khaled-ali-304ab1428)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elmasry-Cloud)
